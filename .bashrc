@@ -1,0 +1,4 @@
+source ~/.redsea_aliases
+
+
+
