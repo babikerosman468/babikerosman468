@@ -1,3 +1,7 @@
 [submodule "babikerosman468"]
 	path = babikerosman468
 	url = https://github.com/babikerosman468/babikerosman468.git
+
+[submodule "lolo/25/26"]
+    path = lolo/25/26
+    url = <repo-url>
